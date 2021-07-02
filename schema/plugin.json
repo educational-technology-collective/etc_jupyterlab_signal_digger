@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "@educational-technology-collective/etc_jupyterlab_signal_digger",
+  "description": "@educational-technology-collective/etc_jupyterlab_signal_digger settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
