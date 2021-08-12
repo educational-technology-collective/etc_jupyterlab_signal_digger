@@ -7,7 +7,7 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "git@github.com:educational-technology-collective/etc_jupyterlab_signal_digger.git",
+  "homepage": "https://github.com/educational-technology-collective/etc_jupyterlab_signal_digger",
   "bugs": {
     "url": "git@github.com:educational-technology-collective/etc_jupyterlab_signal_digger.git/issues"
   },
